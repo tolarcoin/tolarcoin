@@ -1,3 +1,3 @@
-FooCoin (FOO)
+TolarCoin (TOL)
 
-Blah, blah, blah.
+Testing ex Slovenian currency...
